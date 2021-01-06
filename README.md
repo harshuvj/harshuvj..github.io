@@ -20,8 +20,9 @@ These are primary skill sets and I am continuously learning in these respective 
 
 #Project Catelog:
 
-1) [Power BI : Sales Insightes Project:] (https://github.com/harshuvj/Power-BI-Projects)
-
+1) [Power BI Project : Sales Insightes](https://github.com/harshuvj/Power-BI-Projects/blob/main/README.md)
+- Created Power BI dashboard for Sales data analysis
+- This helped users to get valuable insight from their sales data
 
 
 
