@@ -13,12 +13,14 @@ These are primary skill sets and I am continuously learning in these respective 
 
 ![SAS_certified](https://user-images.githubusercontent.com/61430361/103727764-1bb5fb80-5002-11eb-9fa1-ce428ee68d1b.png)
 
-3) Tableau : For Data Visualisation and reporting
+3) Tableau and Power BI : For Data Visualisation and reporting
 
 ![TDS_png](https://user-images.githubusercontent.com/61430361/103727767-1c4e9200-5002-11eb-8bee-5fb664334476.png)
 
 
+#Project Catelog:
 
+1) [Power BI : Sales Insightes Project:] (https://github.com/harshuvj/Power-BI-Projects)
 
 
 
