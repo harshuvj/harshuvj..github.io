@@ -34,7 +34,7 @@ These are primary skill sets and I am continuously learning in these respective 
 
 ![It_sales_5](https://user-images.githubusercontent.com/61430361/103800345-4f306e80-5072-11eb-95cd-e6cf259fe9fb.JPG)
 
-3) [Tableau Project :](![Revenue Analysis_Tableau](https://user-images.githubusercontent.com/61430361/103801904-5f494d80-5074-11eb-924f-5f5d1ce72da7.jpg))
+3) [Tableau Project :](![Revenue Analysis_Tableau](https://user-images.githubusercontent.com/61430361/103801904-5f494d80-5074-11eb-924f-5f5d1ce72da7.jpg)
 
 - Created Power BI dashboard for Sales data analysis
 - This helped users to get valuable insight from their sales data
