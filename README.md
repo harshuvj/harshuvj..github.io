@@ -1,7 +1,8 @@
 # My Data Science Portfolio
 
 ## Bio: 
-I am a data science enthusiast. I am someone who likes learning new things and improve my-self each day. In this space my plan is to showcase different skills that have acquired over the period and how I have used them to solve a business question. 
+I am a data science enthusiast. I am someone who likes learning new things and improve my-self each day. 
+In this space my plan is to showcase different skills that have acquired over the period and how I have used them to solve a business question. 
 
 These are primary skill sets and I am continuously learning in these respective fields to improve myself and keep myself updated with latest trends and new developments.
 
