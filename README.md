@@ -24,8 +24,13 @@ These are primary skill sets and I am continuously learning in these respective 
 - Created Power BI dashboard for Sales data analysis
 - This helped users to get valuable insight from their sales data
 
+![Sales_Insightes_Power_BI_Image_1](https://user-images.githubusercontent.com/61430361/103799835-a255f180-5071-11eb-8764-d3a747d099e9.JPG)
+
+
 2) [Power BI Project : Budget vs  Forecast Analyst](https://github.com/harshuvj/Power-BI-Project_102/blob/main/README.md)
 - In this dashboard I have analysed performance of a company in term of its sales performance in 2020.
+
+![It_sales_5](https://user-images.githubusercontent.com/61430361/103800345-4f306e80-5072-11eb-95cd-e6cf259fe9fb.JPG)
 
 
 
