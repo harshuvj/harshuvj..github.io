@@ -37,7 +37,7 @@ These are primary skill sets and I am continuously learning in these respective 
 
 3) [Tableau Project](https://user-images.githubusercontent.com/61430361/103801904-5f494d80-5074-11eb-924f-5f5d1ce72da7.jpg)
 
-- Created Power BI dashboard for Sales data analysis
+- Created Tableau dashboard for Sales data analysis
 - This helped users to get valuable insight from their sales data
 
 ![Revenue Analysis_Tableau](https://user-images.githubusercontent.com/61430361/103802639-763c6f80-5075-11eb-9148-16c2205eaebd.jpg)
