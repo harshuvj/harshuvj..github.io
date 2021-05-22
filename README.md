@@ -42,7 +42,7 @@ These are primary skill sets and I am continuously learning in these respective 
 
 ![Revenue Analysis_Tableau](https://user-images.githubusercontent.com/61430361/103802639-763c6f80-5075-11eb-9148-16c2205eaebd.jpg)
 
-4) Price Prediction Project:
+4) [Price Prediction Project]https://github.com/harshuvj/Stayze_price_prediction/blob/main/README.md:
 Understanding the user behaviour has become a very crucial part for business nowadays. This understanding can help gain a lot of insights to customize a product according to user behaviour and make major business decisions. In this problem the task was to predict the price of a rental property.
 
 ![gret_atom_hackthon](https://user-images.githubusercontent.com/61430361/119228176-678bbc00-bb2f-11eb-949e-d010d78b0686.png)
